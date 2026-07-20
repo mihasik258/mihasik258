@@ -1,3 +1,3 @@
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=mihasik258)](https://github.com/stats-organization/github-stats-extended)
+[![Telegram](https://img.shields.io/badge/@ТВОЙ__НИК-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/toaster258)
 
-https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=mihasik258&layout=compact&theme=dark)](https://github.com/stats-organization/github-stats-extended)
